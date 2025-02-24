@@ -1,2 +1,1 @@
-# altro-test
-Altro test per hugo site
+Osprey Delight theme
